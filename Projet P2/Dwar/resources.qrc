@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/classes">
+        <file>Images/blue/Archer/sprite_archer_fight_blue_1.png</file>
+        <file>Images/blue/Archer/sprite_archer_idle_blue_1.png</file>
+        <file>Images/blue/Archer/sprite_archer_idle_blue_2.png</file>
+        <file>Images/blue/Rider/sprite_rider_fight_blue_1.png</file>
+        <file>Images/blue/Rider/sprite_rider_idle_blue_1.png</file>
+        <file>Images/blue/Rider/sprite_rider_idle_blue_2.png</file>
+        <file>Images/blue/Saber/sprite_saber_fight_blue_1.png</file>
+        <file>Images/blue/Saber/sprite_saber_idle_blue_1.png</file>
+        <file>Images/blue/Saber/sprite_saber_idle_blue_2.png</file>
+        <file>Images/red/Archer/sprite_archer_fight_red_1.png</file>
+        <file>Images/red/Archer/sprite_archer_idle_red_1.png</file>
+        <file>Images/red/Archer/sprite_archer_idle_red_2.png</file>
+        <file>Images/red/Rider/sprite_rider_fight_red_1.png</file>
+        <file>Images/red/Rider/sprite_rider_idle_red_1.png</file>
+        <file>Images/red/Rider/sprite_rider_idle_red_2.png</file>
+        <file>Images/red/Saber/sprite_saber_fight_red_1.png</file>
+        <file>Images/red/Saber/sprite_saber_idle_red_1.png</file>
+        <file>Images/red/Saber/sprite_saber_idle_red_2.png</file>
+        <file>Images/blue/Archer/sprite_archer_wasted_blue_1.png</file>
+        <file>Images/blue/Rider/sprite_rider_wasted_blue_1.png</file>
+        <file>Images/blue/Saber/sprite_saber_wasted_blue_1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Images/PlayButton.png</file>
+        <file>Images/QuitButton.png</file>
+        <file>Images/RulesButton.png</file>
+        <file>Images/Title.png</file>
+        <file>Images/endturn.png</file>
+        <file>Images/attack.png</file>
+        <file>Images/coin.png</file>
+        <file>Images/addunit.png</file>
+        <file>Images/dellunit.png</file>
+        <file>Images/validatearmy.png</file>
+        <file>Images/commencer.png</file>
+        <file>Images/placementEnnemi.png</file>
+        <file>Images/configuration.png</file>
+        <file>Images/nouvellePartie.png</file>
+        <file>Images/quitter.png</file>
+        <file>Images/regle.png</file>
+        <file>Images/rejouer.png</file>
+        <file>Images/quitterG.png</file>
+    </qresource>
+    <qresource prefix="/tiledMap">
+        <file>TiledMap/[A]Grass1-Dirt3_pipo.png</file>
+        <file>TiledMap/[A]Water2_pipo.png</file>
+        <file>TiledMap/[Base]BaseChip_pipo.png</file>
+        <file>TiledMap/mapDwar.png</file>
+        <file>TiledMap/mapDwar.tmx</file>
+        <file>TiledMap/pipo-map001.png</file>
+        <file>TiledMap/pipo-map001_at-yama3.png</file>
+        <file>TiledMap/tileset.tsx</file>
+        <file>TiledMap/tilesetEau.tsx</file>
+        <file>TiledMap/tilesetGrass.tsx</file>
+        <file>TiledMap/tilestForest.tsx</file>
+        <file>TiledMap/tilestMountain.tsx</file>
+    </qresource>
+</RCC>
